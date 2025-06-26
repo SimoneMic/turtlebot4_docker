@@ -9,9 +9,9 @@
       <Interfaces>
         <!--<NetworkInterface autodetermine="true" priority="default"
         multicast="default" />-->
-        <NetworkInterface name='wlp0s20f3' />
+        <NetworkInterface name='wlp4s0' />
       </Interfaces>
-      <AllowMulticast>default</AllowMulticast>
+      <AllowMulticast>false</AllowMulticast>
     </General>
     <Discovery>
          <MaxAutoParticipantIndex>300</MaxAutoParticipantIndex>
